@@ -131,6 +131,6 @@ I'm a passionate developer who loves building things for the web.
 
 ## ⭐️ From [marufrobin](https://github.com/marufrobin)
 
-```json
+```
 profile version: 1.0.0+01
 ```
