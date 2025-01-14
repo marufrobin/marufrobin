@@ -129,7 +129,7 @@ I'm a passionate developer who loves building things for the web.
 
 ---
 
-## ⭐️ From [marufrobin](https://github.com/marufrobin)
+## ⭐️ From [Maruf Ahmed Robin](https://github.com/marufrobin)
 
 ```
 profile version: 1.0.0+01
