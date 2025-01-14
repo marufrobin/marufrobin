@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm a passionate developer who loves building things for the web.
+I'm **Maruf Robin**, a passionate **Mobile Application Developer** with 3+ years of experience in building scalable, user-friendly applications using **Flutter** and **Dart**. I specialize in **UI/UX design** and have a keen interest in **backend development** and **AI/ML technologies**. 
+
+🌟 **Currently exploring:** Advanced **ReactJS** for front-end development and **Node.js** for backend solutions.  
+🎯 **Goal:** To contribute to impactful open-source projects and continuously improve my skills as a developer.  
+💼 **Open to:** Freelance work, collaborations, and innovative projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marufrobin&color=brightgreen)
 
