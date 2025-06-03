@@ -27,6 +27,11 @@ I'm **Maruf Robin**, a passionate **Mobile Application Developer** with 3+ years
 - Learning new technologies and frameworks
 
 #### 🌟 Open Source
+- **[Minimal Expense Tracker](https://github.com/marufrobin/Minimal_Expense_Tracker)**
+
+  * POC project built with Flutter using **Isar DB**, **BLoC**, and **charts**
+  * ![GitHub stars](https://img.shields.io/github/stars/marufrobin/Minimal_Expense_Tracker?style=social)
+  * Contributions: Local database integration, charting, state management architecture
 
 - **[Flutter Animations](https://github.com/marufrobin/animation_demo)**
 
@@ -60,8 +65,8 @@ I'm **Maruf Robin**, a passionate **Mobile Application Developer** with 3+ years
 
 ##### 🧪 Proof of Concepts & Learning Projects
 
+- [**Minimal Expense Tracker**](https://github.com/marufrobin/Minimal_Expense_Tracker) – Expense tracker using Isar, BLoC, and charting for Flutter
 - [**Clean Architecture Demo**](https://github.com/marufrobin/clean_architecture) - Clean architecture implementation example
-- [**GetX Demo**](https://github.com/marufrobin/getx_demo) - GetX state management examples
 - [**Flutter Animations**](https://github.com/marufrobin/animation_demo) - Collection of Flutter animation experiments
 
 #### 🛠️ Tech Stack
